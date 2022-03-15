@@ -1,5 +1,2 @@
 #!/bin/bash
--rw-r--r-- 1 root root 16 Mar 15 05:00 0-current_working_directory
--rw-r--r-- 1 root root 15 Mar 15 05:28 1-listit
--rw-r--r-- 1 root root 21 Mar 15 05:20 2-bring_me_home
--rw-r--r-- 1 root root 18 Mar 15 05:31 3-listfiles
+ls -l
