@@ -1,8 +1,2 @@
 #!/bin/bash
 ls -l
-total 16
--rw-r--r-- 1 root root 16 Mar 15 05:00 0-current_working_directory
--rw-r--r-- 1 root root 15 Mar 15 05:28 1-listit
--rw-r--r-- 1 root root 21 Mar 15 05:20 2-bring_me_home
--rw-r--r-- 1 root root 18 Mar 15 06:15 3-listfiles
-root@9010ea7a8659:~/alx-system_engineering-devops/0x00-shell_basics#
