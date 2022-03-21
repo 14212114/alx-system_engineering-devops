@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod 010
+sudo chmod 100
